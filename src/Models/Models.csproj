@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <AssemblyName>Paraminter.Parameters.Models</AssemblyName>
+
+        <RootNamespace>Paraminter.Parameters.Models</RootNamespace>
+
+        <PackageId>Paraminter.Parameters.Models</PackageId>
+        <Description>Defines models for Paraminter parameters.</Description>
+    </PropertyGroup>
+
+</Project>
